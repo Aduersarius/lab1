@@ -1,8 +1,9 @@
 # lab1
-$ export LAB_NUMBER=02
-$ git clone https://github.com/tp-labs/lab${2} tasks/lab${02}
-$ mkdir reports/lab${LAB_NUMBER}
-$ cp tasks/lab${LAB_NUMBER}/README.md reports/lab${02}/REPORT.md
-$ cd reports/lab${02}
-$ edit REPORT.md
-$ gistup -m "lab${02}"
+Slack - лучший файлообменник
+Google Sheets - таблицы гугла
+Google Docs - документы гугла
+GitHub - соцсеть для программистов
+GitHub SSH Key - ускоряет работу с гитхабом, позволяет подключаться к удаленным серверам
+Markdown - текстовый редактор
+Gist - заметка к коду
+GitHub Personal Token - при подключении через Personal token не нужно вводить пароль
